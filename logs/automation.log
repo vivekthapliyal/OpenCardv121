@@ -1,0 +1,41 @@
+2026-01-14 17:19:44 INFO  TC003_Login_DDT:20 - TC003_Login_DDT test started
+2026-01-14 17:19:46 INFO  TC003_Login_DDT:46 - Entering the user details 
+2026-01-14 17:19:46 INFO  TC003_Login_DDT:49 - Checking the valid case 1 
+2026-01-14 17:19:50 INFO  TC003_Login_DDT:73 - Finshed TC003_Login_DDT Test
+2026-01-14 17:19:50 INFO  TC003_Login_DDT:20 - TC003_Login_DDT test started
+2026-01-14 17:19:52 INFO  TC003_Login_DDT:46 - Entering the user details 
+2026-01-14 17:19:52 INFO  TC003_Login_DDT:49 - Checking the valid case 1 
+2026-01-14 17:19:55 INFO  TC003_Login_DDT:73 - Finshed TC003_Login_DDT Test
+2026-01-14 17:19:55 INFO  TC003_Login_DDT:20 - TC003_Login_DDT test started
+2026-01-14 17:20:03 INFO  TC003_Login_DDT:46 - Entering the user details 
+2026-01-14 17:20:03 INFO  TC003_Login_DDT:49 - Checking the valid case 1 
+2026-01-14 17:20:07 INFO  TC003_Login_DDT:73 - Finshed TC003_Login_DDT Test
+2026-01-14 17:20:07 INFO  TC003_Login_DDT:20 - TC003_Login_DDT test started
+2026-01-14 17:23:08 INFO  TC003_Login_DDT:46 - Entering the user details 
+2026-01-14 17:23:08 INFO  TC003_Login_DDT:65 - Checking the Invalid case 2 
+2026-01-14 17:23:11 INFO  TC003_Login_DDT:73 - Finshed TC003_Login_DDT Test
+2026-01-14 17:23:11 INFO  TC003_Login_DDT:20 - TC003_Login_DDT test started
+2026-01-14 17:25:25 INFO  TC001_AccountRegistrationTest:20 - Starting the TC001`_AccountRegistrationTest 
+2026-01-14 17:25:26 INFO  TC001_AccountRegistrationTest:29 - Clicking on MyAccount link
+2026-01-14 17:25:26 INFO  TC001_AccountRegistrationTest:32 - Clicked on Register link 
+2026-01-14 17:25:26 INFO  TC001_AccountRegistrationTest:37 - Providing customer details
+2026-01-14 17:25:32 INFO  TC001_AccountRegistrationTest:51 - Validating the expected message
+2026-01-14 17:25:32 INFO  TC001_AccountRegistrationTest:71 - TC001`_AccountRegistrationTest
+2026-01-14 17:25:35 INFO  TC002_LoginTest:16 - Starting TC002_LoginTest
+2026-01-14 17:25:37 INFO  TC002_LoginTest:43 - Finished TC_002_LoginTest
+2026-01-14 17:52:13 INFO  TC001_AccountRegistrationTest:20 - Starting the TC001`_AccountRegistrationTest 
+2026-01-14 17:52:13 INFO  TC001_AccountRegistrationTest:29 - Clicking on MyAccount link
+2026-01-14 17:52:14 INFO  TC001_AccountRegistrationTest:32 - Clicked on Register link 
+2026-01-14 17:52:14 INFO  TC001_AccountRegistrationTest:37 - Providing customer details
+2026-01-14 17:52:21 INFO  TC001_AccountRegistrationTest:51 - Validating the expected message
+2026-01-14 17:52:21 INFO  TC001_AccountRegistrationTest:71 - TC001`_AccountRegistrationTest
+2026-01-14 17:52:24 INFO  TC002_LoginTest:16 - Starting TC002_LoginTest
+2026-01-14 17:52:26 INFO  TC002_LoginTest:43 - Finished TC_002_LoginTest
+2026-01-14 18:00:47 INFO  TC001_AccountRegistrationTest:20 - Starting the TC001`_AccountRegistrationTest 
+2026-01-14 18:00:48 INFO  TC001_AccountRegistrationTest:29 - Clicking on MyAccount link
+2026-01-14 18:00:48 INFO  TC001_AccountRegistrationTest:32 - Clicked on Register link 
+2026-01-14 18:00:48 INFO  TC001_AccountRegistrationTest:37 - Providing customer details
+2026-01-14 18:00:55 INFO  TC001_AccountRegistrationTest:51 - Validating the expected message
+2026-01-14 18:00:55 INFO  TC001_AccountRegistrationTest:71 - TC001`_AccountRegistrationTest
+2026-01-14 18:00:58 INFO  TC002_LoginTest:16 - Starting TC002_LoginTest
+2026-01-14 18:00:59 INFO  TC002_LoginTest:43 - Finished TC_002_LoginTest
